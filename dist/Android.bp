@@ -196,7 +196,6 @@ cc_binary {
                 "libsqlite",
                 "libandroidicu",
                 "liblog",
-                "libutils",
             ],
         },
         host: {
